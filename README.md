@@ -47,21 +47,22 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 10/02 (Tue) - Transition Semantics (Ch6).
 * __**10/04 (Thu) - NO LECTURE. PROBPROG'18.**__
 * __**10/09 (Tue) - NO LECTURE. Hangle Proclamation Day.**__
-* 10/11 (Thu) - The Lambda Calculus (Ch10).
+* 10/11 (Thu) - An Introduction to Category Theory (Tennent Ch8).
 * __**10/16 (Tue) - NO LECTURE. Midterm Exam.**__
-* 10/18 (Thu) - The Lambda Calculus (Ch10). __Lecture from 10 until 12.__
-* 10/23 (Tue) - An Eager Functional Language (Ch11).
-* 10/25 (Thu) - An Eager Functional Language (Ch11).
-* 10/30 (Tue) - Continuation in a Functional Language (Ch12).
-* 11/01 (Thu) - Continuation in a Functional Language (Ch12).
-* 11/06 (Tue) - Iswim-like Languages (Ch13).
-* 11/08 (Thu) - Iswim-like Languages (Ch13).
-* 11/13 (Tue) - A Normal-Order Language (Ch14).
-* 11/15 (Thu) - A Normal-Order Language (Ch14).
-* 11/20 (Tue) - The Simple Type System (Ch15).
-* 11/22 (Thu) - The Simple Type System (Ch15).
+* __**10/18 (Thu) - Recursively-Defined Domains (Tennet Ch10). Lecture from 10 until 12.**__
+* 10/23 (Tue) - The Lambda Calculus (Ch10).
+* 10/25 (Thu) - The Lambda Calculus (Ch10). 
+* 10/30 (Tue) - An Eager Functional Language (Ch11).
+* 11/01 (Thu) - An Eager Functional Language (Ch11).
+* 11/06 (Tue) - Continuation in a Functional Language (Ch12).
+* 11/08 (Thu) - Continuation in a Functional Language (Ch12).
+* 11/13 (Tue) - Iswim-like Languages (Ch13).
+* 11/15 (Thu) - Iswim-like Languages (Ch13).
+* 11/20 (Tue) - A Normal-Order Language (Ch14).
+* 11/22 (Thu) - A Normal-Order Language (Ch14).
 * 11/27 (Tue) - The Simple Type System (Ch15).
 * __**11/29 (Thu) - NO LECTURE. KAIST Undergraduate Admission.**__
+* __**11/30 (Fri) - The Simple Type System (Ch15). Lecture from 4 until 6.**__
 * __**12/04 (Tue), 12/06 (Thu) - NO LECTURES. NIPS'18.**__
 * __**12/11 (Tue), 12/13 (Thu) - NO LECTURES. Final Exam.**__
 
