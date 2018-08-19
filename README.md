@@ -36,9 +36,9 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 ## 4. Tentative Plan
 
-<dl>
-  <dt> Definition list</dt>
-</dl>
+<ul>
+  <li> 08/28 (Tue) </li>
+</ul>
 
 * 08/28 (Tue)
 * 08/30 (Thu)
