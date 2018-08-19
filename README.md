@@ -12,8 +12,6 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 #### Evaluation
 
-* Final exam (40%). Project (40%). Homework (20%).
-
 #### Teaching Staffs
 
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm on Tuesday at the room 3403 in the E3-1 building)
