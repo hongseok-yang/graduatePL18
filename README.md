@@ -36,6 +36,37 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 ## 4. Tentative Plan
 
+* 08/28 (Tue)
+* 08/30 (Thu)
+* 09/04 (Tue)
+* __**09/06 (Thu) - NO LECTURE. SETTA'18.**__
+* 09/11 (Tue)
+* 09/13 (Thu)
+* 09/18 (Tue)
+* 09/20 (Thu)
+* __**09/25 (Tue) - NO LECTURE. Chuseok.**__
+* 09/27 (Thu)
+* 10/02 (Tue)
+* __**10/04 (Thu) - NO LECTURE. PROBPROG'18.**__
+* __**10/09 (Tue) - NO LECTURE. Hangle Proclamation Day.**__
+* 10/11 (Thu)
+* __**10/16 (Tue) - NO LECTURE. Midterm Exam.**__
+* 10/18 (Thu) - __Lecture from 10 until 12.__
+* 10/23 (Tue)
+* 10/25 (Thu)
+* 10/30 (Tue)
+* 11/01 (Thu)
+* 11/06 (Tue)
+* 11/08 (Thu)
+* 11/13 (Tue)
+* 11/15 (Thu)
+* 11/20 (Tue)
+* 11/22 (Thu)
+* 11/27 (Tue)
+* __**11/29 (Thu) - NO LECTURE. KAIST Undergraduate Admission.**__
+* __**12/04 (Tue), 12/06 (Thu) - NO LECTURES. NIPS'18.**__
+* __**12/11 (Tue), 12/13 (Thu) - NO LECTURES. Final Exam.**__
+
 ## 5. Studying Materials
 
 * Main Textbook : Theories of Programming Languages, John C Reynolds, Cambridge University Press, 1998. 
