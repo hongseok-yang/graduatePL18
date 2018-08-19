@@ -36,12 +36,14 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 ## 4. Tentative Plan
 
+<dl>
+  <dt> Definition list</dt>
+</dl>
+
 * 08/28 (Tue)
 * 08/30 (Thu)
 * 09/04 (Tue)
-```diff
-+* __**09/06 (Thu) - NO LECTURE. SETTA'18.**__
-```
+* __**09/06 (Thu) - NO LECTURE. SETTA'18.**__
 * 09/11 (Tue)
 * 09/13 (Thu)
 * 09/18 (Tue)
