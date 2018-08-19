@@ -36,37 +36,33 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 ## 4. Tentative Plan
 
-<ul>
-  <li style="color:Tomato;"> 08/28 (Tue) </li>
-</ul>
-
-* 08/28 (Tue)
-* 08/30 (Thu)
-* 09/04 (Tue)
+* 08/28 (Tue) - Predicate Logic (Ch1).
+* 08/30 (Thu) - The Simple Imperative Language (Ch2).
+* 09/04 (Tue) - The Simple Imperative Language (Ch2).
 * __**09/06 (Thu) - NO LECTURE. SETTA'18.**__
-* 09/11 (Tue)
-* 09/13 (Thu)
-* 09/18 (Tue)
-* 09/20 (Thu)
+* 09/11 (Tue) - Program Specification and Their Proofs (Ch3).
+* 09/13 (Thu) - Program Specification and Their Proofs (Ch3).
+* 09/18 (Tue) - Failure, Input-Output, and Continuation (Ch5).
+* 09/20 (Thu) - Failure, Input-Output, and Continuation (Ch5).
 * __**09/25 (Tue) - NO LECTURE. Chuseok.**__
-* 09/27 (Thu)
-* 10/02 (Tue)
+* 09/27 (Thu) - Transition Semantics (Ch6).
+* 10/02 (Tue) - Transition Semantics (Ch6).
 * __**10/04 (Thu) - NO LECTURE. PROBPROG'18.**__
 * __**10/09 (Tue) - NO LECTURE. Hangle Proclamation Day.**__
-* 10/11 (Thu)
+* 10/11 (Thu) - The Lambda Calculus (Ch10).
 * __**10/16 (Tue) - NO LECTURE. Midterm Exam.**__
-* 10/18 (Thu) - __Lecture from 10 until 12.__
-* 10/23 (Tue)
-* 10/25 (Thu)
-* 10/30 (Tue)
-* 11/01 (Thu)
-* 11/06 (Tue)
-* 11/08 (Thu)
-* 11/13 (Tue)
-* 11/15 (Thu)
-* 11/20 (Tue)
-* 11/22 (Thu)
-* 11/27 (Tue)
+* 10/18 (Thu) - The Lambda Calculus (Ch10). __Lecture from 10 until 12.__
+* 10/23 (Tue) - An Eager Functional Language (Ch11).
+* 10/25 (Thu) - An Eager Functional Language (Ch11).
+* 10/30 (Tue) - Continuation in a Functional Language (Ch12).
+* 11/01 (Thu) - Continuation in a Functional Language (Ch12).
+* 11/06 (Tue) - Iswim-like Languages (Ch13).
+* 11/08 (Thu) - Iswim-like Languages (Ch13).
+* 11/13 (Tue) - A Normal-Order Language (Ch14).
+* 11/15 (Thu) - A Normal-Order Language (Ch14).
+* 11/20 (Tue) - The Simple Type System (Ch15).
+* 11/22 (Thu) - The Simple Type System (Ch15).
+* 11/27 (Tue) - The Simple Type System (Ch15).
 * __**11/29 (Thu) - NO LECTURE. KAIST Undergraduate Admission.**__
 * __**12/04 (Tue), 12/06 (Thu) - NO LECTURES. NIPS'18.**__
 * __**12/11 (Tue), 12/13 (Thu) - NO LECTURES. Final Exam.**__
