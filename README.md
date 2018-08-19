@@ -34,37 +34,37 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 ## 4. Tentative Plan
 
-* 08/28 (Tue) - Predicate Logic (Ch1).
-* 08/30 (Thu) - The Simple Imperative Language (Ch2).
-* 09/04 (Tue) - The Simple Imperative Language (Ch2).
-* __**09/06 (Thu) - NO LECTURE. SETTA'18.**__
-* 09/11 (Tue) - Program Specification and Their Proofs (Ch3).
-* 09/13 (Thu) - Program Specification and Their Proofs (Ch3).
-* 09/18 (Tue) - Failure, Input-Output, and Continuation (Ch5).
-* 09/20 (Thu) - Failure, Input-Output, and Continuation (Ch5).
-* __**09/25 (Tue) - NO LECTURE. Chuseok.**__
-* 09/27 (Thu) - Transition Semantics (Ch6).
-* 10/02 (Tue) - Transition Semantics (Ch6).
-* __**10/04 (Thu) - NO LECTURE. PROBPROG'18.**__
-* __**10/09 (Tue) - NO LECTURE. Hangle Proclamation Day.**__
-* 10/11 (Thu) - An Introduction to Category Theory (Tennent Ch8).
-* __**10/16 (Tue) - NO LECTURE. Midterm Exam.**__
-* __**10/18 (Thu) - LECTURE FROM 10 TO 12.**__ Recursively-Defined Domains (Tennet Ch10). 
-* 10/23 (Tue) - The Lambda Calculus (Ch10).
-* 10/25 (Thu) - The Lambda Calculus (Ch10). 
-* 10/30 (Tue) - An Eager Functional Language (Ch11).
-* 11/01 (Thu) - An Eager Functional Language (Ch11).
-* 11/06 (Tue) - Continuation in a Functional Language (Ch12).
-* 11/08 (Thu) - Continuation in a Functional Language (Ch12).
-* 11/13 (Tue) - Iswim-like Languages (Ch13).
-* 11/15 (Thu) - Iswim-like Languages (Ch13).
-* 11/20 (Tue) - A Normal-Order Language (Ch14).
-* 11/22 (Thu) - A Normal-Order Language (Ch14).
-* 11/27 (Tue) - The Simple Type System (Ch15).
-* __**11/29 (Thu) - NO LECTURE. KAIST Undergraduate Admission.**__
-* __**11/30 (Fri) - LECTURE FROM 4 TO 6.**__ The Simple Type System (Ch15). 
-* __**12/04 (Tue), 12/06 (Thu) - NO LECTURES. NIPS'18.**__
-* __**12/11 (Tue), 12/13 (Thu) - NO LECTURES. Final Exam.**__
+* 08/28 - Predicate Logic (Ch1).
+* 08/30 - The Simple Imperative Language (Ch2).
+* 09/04 - The Simple Imperative Language (Ch2).
+* __**09/06 - NO LECTURE. SETTA'18.**__
+* 09/11 - Program Specification and Their Proofs (Ch3).
+* 09/13 - Program Specification and Their Proofs (Ch3).
+* 09/18 - Failure, Input-Output, and Continuation (Ch5).
+* 09/20 - Failure, Input-Output, and Continuation (Ch5).
+* __**09/25 - NO LECTURE. Chuseok.**__
+* 09/27 - Transition Semantics (Ch6).
+* 10/02 - Transition Semantics (Ch6).
+* __**10/04 - NO LECTURE. PROBPROG'18.**__
+* __**10/09 - NO LECTURE. Hangle Proclamation Day.**__
+* 10/11 - An Introduction to Category Theory (Tennent Ch8).
+* __**10/16 - NO LECTURE. Midterm Exam.**__
+* __**10/18 - LECTURE FROM 10 TO 12.**__ Recursively-Defined Domains (Tennent Ch10). 
+* 10/23 - The Lambda Calculus (Ch10).
+* 10/25 - The Lambda Calculus (Ch10). 
+* 10/30 - An Eager Functional Language (Ch11).
+* 11/01 - An Eager Functional Language (Ch11).
+* 11/06 - Continuation in a Functional Language (Ch12).
+* 11/08 - Continuation in a Functional Language (Ch12).
+* 11/13 - Iswim-like Languages (Ch13).
+* 11/15 - Iswim-like Languages (Ch13).
+* 11/20 - A Normal-Order Language (Ch14).
+* 11/22 - A Normal-Order Language (Ch14).
+* 11/27 - The Simple Type System (Ch15).
+* __**11/29 - NO LECTURE. KAIST Undergraduate Admission.**__
+* __**11/30 - LECTURE FROM 4 TO 6.**__ The Simple Type System (Ch15). 
+* __**12/04, 12/06 - NO LECTURES. NIPS'18.**__
+* __**12/11, 12/13 - NO LECTURES. Final Exam.**__
 
 ## 5. Studying Materials
 
