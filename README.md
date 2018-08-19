@@ -2,7 +2,9 @@
 
 This is a webpage of the course "CS520 Theory of Programming Languages", which is offered at the KAIST CS department in the fall of 2018. The webpage will contain links to course-related materials and announcements.
 
-CS520 is an advanced graduate-level course on the theories of programming languages. Its goal is to expose students to rigorous mathematical foundations for the design and implementation of programming languages and their type systems, and mathematical techniques for formally proving programs written in those languages. The course will largely follow Reynolds's textbook "Theories of Programming Languages", which provides good rigorous mathematical analysis of a wide range of programming constructs through axiomatic, denotational and operational semantics.
+CS520 is an advanced graduate-level course on the theories of programming languages. Its goal is to expose students to rigorous mathematical foundations for the design and implementation of programming languages and their type systems, and mathematical techniques for formally reasoning about  programs written in those languages. The course will largely follow Reynolds's textbook "Theories of Programming Languages", which provides good rigorous mathematical treatment of a wide range of programming constructs through axiomatic, denotational and operational semantics. 
+
+The prerequisite of the course is CS320, the undergraduate-level programming-language course offered at KAIST, or a similar course. The course will be heavy in math, and we expect students to be comfortable with doing and reading rigorous mathematical proofs. 
 
 ## 1. Important Announcements
 
