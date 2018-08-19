@@ -37,7 +37,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 ## 4. Tentative Plan
 
 <ul>
-  <li> 08/28 (Tue) </li>
+  <li style="color:Tomato;"> 08/28 (Tue) </li>
 </ul>
 
 * 08/28 (Tue)
