@@ -39,7 +39,9 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 08/28 (Tue)
 * 08/30 (Thu)
 * 09/04 (Tue)
-* __**09/06 (Thu) - NO LECTURE. SETTA'18.**__
+```diff
++* __**09/06 (Thu) - NO LECTURE. SETTA'18.**__
+```
 * 09/11 (Tue)
 * 09/13 (Thu)
 * 09/18 (Tue)
