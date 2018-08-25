@@ -8,6 +8,23 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [27 August] Planned cancelling and addition of lectures.
+
+Because of Hongseok's business, there will be no lectures on the following days.
+
+1. 09/06 - NO LECTURE. SETTA'18.
+2. 10/04 - NO LECTURE. PROBPROG'18.
+3. 12/04, 12/06 - NO LECTURES. NIPS'18.
+
+This is in addition to the cancelling of lectures due to national holidays and KAIST undergraduate admission. 
+
+To cover cancelled lectures, we schedule two additional lectures:
+
+1. 10/18 (Thu) - LECTURE FROM 9:30 TO 11:30. Recursively-Defined Domains (Tennent Ch10). 
+2. 11/30 (Fri) - LECTURE FROM 4 TO 6. The Simple Type System (Ch15). 
+
+Note that the 18th of October is in the period of the mid-term exam. The university allocated the 9:00-11:45 slot on 10/18 for the mid-term exam of this course. Instead of having a mid-term exam, we will have a 2-hour lecture on that day.
+
 ## 2. Logistics
 
 #### Evaluation
@@ -22,7 +39,7 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 #### Place and Time
 
-* Place: room 202 in the E11 building
+* Place: room 111 in the N1 building
 * Time: 10:30am - 11:45am on Tuesday and Thursday from 28 August 2018 until 13 December 2018.
 * Final exam: 9:00am - 11:00am on 13 December 2018 (Thursday) at the room 202 in the E11 building.
 
@@ -51,7 +68,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * __**10/09 - NO LECTURE. Hangle Proclamation Day.**__
 * 10/11 - An Introduction to Category Theory (Tennent Ch8).
 * __**10/16 - NO LECTURE. Midterm Exam.**__
-* __**10/18 - LECTURE FROM 10 TO 12.**__ Recursively-Defined Domains (Tennent Ch10). 
+* __**10/18 - LECTURE FROM 9:30 TO 11:30.**__ Recursively-Defined Domains (Tennent Ch10). 
 * 10/23 - The Lambda Calculus (Ch10).
 * 10/25 - The Lambda Calculus (Ch10). 
 * 10/30 - An Eager Functional Language (Ch11).
@@ -92,9 +109,9 @@ One important part of this course is to study assigned reading materials and wri
 
 1. There are two assignments for this critical review.
 2. First assignment.
-   1. Deadline: __**Midnight of the 26th of October in 2018 (Friday).**__
+   1. Deadline: __**midnight of the 26th of October in 2018 (Friday).**__
    2. Material: Chapter 7 of Reynolds's ''Theories of Programming Languagues.'' This chapter is about nondeterminism and guarded commands.
 3. Second assignment.
-   1. Deadline: __**Midnight of the 3rd of December in 2018 (Monday).**__
+   1. Deadline: __**midnight of the 3rd of December in 2018 (Monday).**__
    2. Material: Wadler's [Monads for Functional Programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf) (Advanced Functional Programming 1995), and Moggi's [Computational Lambda-Calculus and Monads](http://www.disi.unige.it/person/MoggiE/ftp/lics89.ps.gz) (LICS 1989).
 4. A review should have three pages or less.
