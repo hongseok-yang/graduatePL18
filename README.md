@@ -85,8 +85,6 @@ The following classic papers or their recent reprints contain deep insight into 
 
 * John C. Reynolds, [Definitional Interpreters for Higher-Order Programming Languages](https://doi.org/10.1023/A:1010027404223), Higher-Order and Symbolic Computation, 1998. 
 * Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](http://delivery.acm.org/10.1145/590000/582176/p207-damas.pdf?ip=143.248.139.205&id=582176&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2E7500FBAD1E9579D9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1535179405_6f0967c345266d3a1429bb43f9add160), POPL 1982.
-* Eugenio Moggi, [Computational Lambda-Calculus and Monads](http://www.disi.unige.it/person/MoggiE/ftp/lics89.ps.gz), LICS 1989.
-* Philip Wadler, [Monads for Functional Programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf), Advanced Functional Programming, 1995.
 
 ## 5. Two Critial Reviews
 
@@ -97,5 +95,5 @@ One important part of this course is to study assigned reading materials and wri
    1. Deadline: __**Midnight of the 26th of October in 2018.**__
    2. Material: Chapter 7 of Reynolds's ''Theories of Programming Languagues.'' This chapter is about nondeterminism and guarded commands.
 3. Second assignment.
-   1. Deadline: __**Midnight of the 30th of December in 2018.**__
+   1. Deadline: __**Midnight of the 3rd of December in 2018.**__
    2. Material: Moggi's [Computational Lambda-Calculus and Monads](http://www.disi.unige.it/person/MoggiE/ftp/lics89.ps.gz) (LICS 1989), and Wadler's [Monads for Functional Programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf) (Advanced Functional Programming, 1995).
