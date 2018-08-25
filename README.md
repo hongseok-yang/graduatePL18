@@ -12,6 +12,8 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 #### Evaluation
 
+* Final exam (40%). Homework (30%). Survey Article (30%).
+
 #### Teaching Staffs
 
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm on Tuesday at the room 3403 in the E3-1 building)
@@ -85,3 +87,12 @@ The following classic papers or their recent reprints contain deep insight into 
 * Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](http://delivery.acm.org/10.1145/590000/582176/p207-damas.pdf?ip=143.248.139.205&id=582176&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2E7500FBAD1E9579D9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1535179405_6f0967c345266d3a1429bb43f9add160), POPL 1982.
 * Eugenio Moggi, [Computational Lambda-Calculus and Monads](http://www.disi.unige.it/person/MoggiE/ftp/lics89.ps.gz), LICS 1989.
 * Philip Wadler, [Monads for Functional Programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf), Advanced Functional Programming, 1995.
+
+## 5. Survey Article
+
+One important part of this course is to study a topic in programming languages in depth and write a survey article on what a student learnt. 
+
+'''
+The deadline is the midnight of the 30th of November in 2018.
+'''
+
