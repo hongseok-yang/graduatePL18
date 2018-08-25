@@ -12,7 +12,7 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 #### Evaluation
 
-* Final exam (40%). Homework (30%). Survey Article (30%).
+* Final exam (40%). Homework (30%). Two critical reviews (30%).
 
 #### Teaching Staffs
 
@@ -88,11 +88,14 @@ The following classic papers or their recent reprints contain deep insight into 
 * Eugenio Moggi, [Computational Lambda-Calculus and Monads](http://www.disi.unige.it/person/MoggiE/ftp/lics89.ps.gz), LICS 1989.
 * Philip Wadler, [Monads for Functional Programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf), Advanced Functional Programming, 1995.
 
-## 5. Survey Article
+## 5. Two Critial Reviews
 
-One important part of this course is to study a topic in programming languages in depth and write a survey article on what a student learnt. Here are two important points.
+One important part of this course is to study assigned reading materials and write reviews about them. It accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-ups that she or he has thought hard about the materials and gone beyond the simple understanding of them. Here are the details of this assignments.
 
-1. The deadline is __**the midnight of the 30th of November in 2018.**__
-2. We suggest to pick one of the following topics. We add a few questions that may help a student to think during his or her research into the chosen topic.
-   * Monad  
-   * Continuation 
+1. There are two assignments for this critical review.
+2. First assignment.
+   1. Deadline: __**Midnight of the 26th of October in 2018.**__
+   2. Material: Chapter 7 of Reynolds's ''Theories of Programming Languagues.'' This chapter is about nondeterminism and guarded commands.
+3. Second assignment.
+   1. Deadline: __**Midnight of the 30th of December in 2018.**__
+   2. Material: Moggi's [Computational Lambda-Calculus and Monads](http://www.disi.unige.it/person/MoggiE/ftp/lics89.ps.gz) (LICS 1989), and Wadler's [Monads for Functional Programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf) (Advanced Functional Programming, 1995).
