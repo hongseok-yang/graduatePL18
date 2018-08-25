@@ -92,7 +92,7 @@ The following classic papers or their recent reprints contain deep insight into 
 
 One important part of this course is to study a topic in programming languages in depth and write a survey article on what a student learnt. 
 
-'''
+```
 The deadline is the midnight of the 30th of November in 2018.
-'''
+```
 
