@@ -105,7 +105,7 @@ The following classic papers or their recent reprints contain deep insight into 
 
 ## 5. Two Critial Reviews
 
-One important part of this course is to study assigned reading materials and write reviews about them. It accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-ups that she or he has thought hard about the materials and gone beyond the simple understanding of them. Here are the details of this assignments.
+One important part of this course is to study assigned reading materials and write reviews about them. It accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has thought hard about the materials and gone beyond the simple understanding of them. Here are the details of this assignments.
 
 1. There are two assignments for this critical review.
 2. First assignment.
