@@ -92,9 +92,9 @@ One important part of this course is to study assigned reading materials and wri
 
 1. There are two assignments for this critical review.
 2. First assignment.
-   1. Deadline: __**Midnight of the 26th of October in 2018.**__
+   1. Deadline: __**Midnight of the 26th of October in 2018 (Friday).**__
    2. Material: Chapter 7 of Reynolds's ''Theories of Programming Languagues.'' This chapter is about nondeterminism and guarded commands.
 3. Second assignment.
-   1. Deadline: __**Midnight of the 3rd of December in 2018.**__
-   2. Material: Moggi's [Computational Lambda-Calculus and Monads](http://www.disi.unige.it/person/MoggiE/ftp/lics89.ps.gz) (LICS 1989), and Wadler's [Monads for Functional Programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf) (Advanced Functional Programming, 1995).
+   1. Deadline: __**Midnight of the 3rd of December in 2018 (Monday).**__
+   2. Material: Wadler's [Monads for Functional Programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf) (Advanced Functional Programming 1995), and Moggi's [Computational Lambda-Calculus and Monads](http://www.disi.unige.it/person/MoggiE/ftp/lics89.ps.gz) (LICS 1989).
 4. A review should have three pages or less.
