@@ -90,9 +90,9 @@ The following classic papers or their recent reprints contain deep insight into 
 
 ## 5. Survey Article
 
-One important part of this course is to study a topic in programming languages in depth and write a survey article on what a student learnt. 
+One important part of this course is to study a topic in programming languages in depth and write a survey article on what a student learnt. Here are two important points.
 
-```
-The deadline is the midnight of the 30th of November in 2018.
-```
-
+1. The deadline is __**the midnight of the 30th of November in 2018.**__
+2. We suggest to pick one of the following topics. We add a few questions that may help a student to think during his or her research into the chosen topic.
+   * Monad  
+   * Continuation 
