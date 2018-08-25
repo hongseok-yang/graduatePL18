@@ -34,11 +34,11 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 ## 4. Tentative Plan
 
-* 08/28 - Predicate Logic (Ch1).
-* 08/30 - The Simple Imperative Language (Ch2).
+* 08/28 - Introduction. Predicate Logic (Ch1).
+* 08/30 - Predicate Logic (Ch1).
 * 09/04 - The Simple Imperative Language (Ch2).
 * __**09/06 - NO LECTURE. SETTA'18.**__
-* 09/11 - Program Specification and Their Proofs (Ch3).
+* 09/11 - The Simple Imperative Language (Ch2).
 * 09/13 - Program Specification and Their Proofs (Ch3).
 * 09/18 - Failure, Input-Output, and Continuation (Ch5).
 * 09/20 - Failure, Input-Output, and Continuation (Ch5).
@@ -68,9 +68,20 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 ## 5. Studying Materials
 
-* Main Textbook : Theories of Programming Languages, John C Reynolds, Cambridge University Press, 1998. 
-* Auxiliary Textbook 1 : Semantics of Programming Languages, Robert D. Tennent, Prentice Hall, 1991
-* Auxiliary Textbook 2 : Semantics of Programming Languages: Structures and Techniques, Carl A. Gunter, MIT Press, 1992.
-* Auxiliary Textbook 3 : Types and Programming Languages, Benjamin C. Pierce, MIT Press, 2002.
-* Auxiliary Textbook 4 : Formal Semantics of Programming Languages: an Introduction, Glynn Winskel, MIT Press, 1993.
+We will mainly follow Reynolds's book, but study the materials appearing in Chapters 8 and 9 of Tennent's book.
 
+* Main Textbook 1 : Theories of Programming Languages, John C Reynolds, Cambridge University Press, 1998. 
+* Main Textbook 2 : Semantics of Programming Languages, Robert D. Tennent, Prentice Hall, 1991. Chapters 8 and 10 only.
+
+In addition to the two books above, the following books will have further information about the topics covered in the course. In particular, Gunter's book goes deep into the domain theory, and Pierce's book into the type theory.
+
+* Auxiliary Textbook 1 : Semantics of Programming Languages: Structures and Techniques, Carl A. Gunter, MIT Press, 1992.
+* Auxiliary Textbook 2 : Types and Programming Languages, Benjamin C. Pierce, MIT Press, 2002.
+* Auxiliary Textbook 3 : Formal Semantics of Programming Languages: an Introduction, Glynn Winskel, MIT Press, 1993.
+
+The following classic papers or their recent reprints contain deep insight into some of topics that we study throughout the course.
+
+* John C. Reynolds, [Definitional Interpreters for Higher-Order Programming Languages](https://doi.org/10.1023/A:1010027404223), Higher-Order and Symbolic Computation, 1998. 
+* Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](http://delivery.acm.org/10.1145/590000/582176/p207-damas.pdf?ip=143.248.139.205&id=582176&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2E7500FBAD1E9579D9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1535179405_6f0967c345266d3a1429bb43f9add160), POPL 1982.
+* Eugenio Moggi, [Computational Lambda-Calculus and Monads](http://www.disi.unige.it/person/MoggiE/ftp/lics89.ps.gz), LICS 1989.
+* Philip Wadler, [Monads for Functional Programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf), Advanced Functional Programming, 1995.
