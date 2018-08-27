@@ -53,7 +53,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 ## 4. Tentative Plan
 
-* 08/28 - Introduction ([slides](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture1/Lecture1.pdf)). Predicate Logic (Ch1).
+* 08/28 - Introduction ([slides](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture1/Lecture1.pdf)). Predicate Logic (Ch1) ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture2/note1.jpg) [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture2/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture2/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture2/Lecture4.jpg)).
 * 08/30 - Predicate Logic (Ch1).
 * 09/04 - The Simple Imperative Language (Ch2).
 * __**09/06 - NO LECTURE. SETTA'18.**__
