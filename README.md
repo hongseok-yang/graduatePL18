@@ -36,6 +36,7 @@ Note that the 18th of October is in the period of the mid-term exam. The univers
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm on Tuesday at the room 3403 in the E3-1 building)
 * TA: Hyoungjin Lim (email: lmkmkr@kaist.ac.kr)
 * TA: Hangyeol Yu (email: yhk1344@kaist.ac.kr)
+* Office hour by TA: 6:00pm - 7:00pm on Thursday at the room 3415 in the E3-1 building
 
 #### Place and Time
 
