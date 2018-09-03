@@ -36,6 +36,7 @@ Note that the 18th of October is in the period of the mid-term exam. The univers
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm on Tuesday at the room 3403 in the E3-1 building)
 * TA: Hyoungjin Lim (email: lmkmkr@kaist.ac.kr)
 * TA: Hangyeol Yu (email: yhk1344@kaist.ac.kr)
+* Office hour by TA: 6:00pm - 7:00pm on Thursday at the room 3415 in the E3-1 building
 
 #### Place and Time
 
@@ -103,7 +104,7 @@ The following classic papers or their recent reprints contain deep insight into 
 * John C. Reynolds, [Definitional Interpreters for Higher-Order Programming Languages](https://doi.org/10.1023/A:1010027404223), Higher-Order and Symbolic Computation, 1998. 
 * Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](http://delivery.acm.org/10.1145/590000/582176/p207-damas.pdf?ip=143.248.139.205&id=582176&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2E7500FBAD1E9579D9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1535179405_6f0967c345266d3a1429bb43f9add160), POPL 1982.
 
-## 5. Two Critial Reviews
+## 5. Two Critical Reviews
 
 One important part of this course is to study assigned reading materials and write reviews about them. It accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has thought hard about the materials and gone beyond the simple understanding of them. Here are the details of this assignments.
 
