@@ -56,14 +56,14 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 * 08/28 - Introduction ([slides](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture1/Lecture1.pdf)). Predicate Logic (Ch1) ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture2/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture2/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture2/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture2/note4.jpg)).
 * 08/30 - Predicate Logic (Ch1) ([note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture2/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture2/note6.jpg), [note7](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture2/note7.jpg), [note8](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture2/note8.jpg)).
-* 09/04 - The Simple Imperative Language (Ch2) ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture3/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture3/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture3/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture3/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture3/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture3/note6.jpg)).
+* 09/04 - Predicate Logic (Ch1).
 * __**09/06 - NO LECTURE. SETTA'18.**__
-* 09/11 - The Simple Imperative Language (Ch2).
-* 09/13 - Program Specification and Their Proofs (Ch3).
-* 09/18 - Failure, Input-Output, and Continuation (Ch5).
+* 09/11 - The Simple Imperative Language (Ch2) ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture3/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture3/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture3/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture3/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture3/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture3/note6.jpg)).
+* 09/13 - The Simple Imperative Language (Ch2).
+* 09/18 - Program Specification and Their Proofs (Ch3).
 * 09/20 - Failure, Input-Output, and Continuation (Ch5).
 * __**09/25 - NO LECTURE. Chuseok.**__
-* 09/27 - Transition Semantics (Ch6).
+* 09/27 - Failure, Input-Output, and Continuation (Ch5).
 * 10/02 - Transition Semantics (Ch6).
 * __**10/04 - NO LECTURE. PROBPROG'18.**__
 * __**10/09 - NO LECTURE. Hangle Proclamation Day.**__
