@@ -93,7 +93,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 We will mainly follow Reynolds's book, but study the materials appearing in Chapters 8 and 9 of Tennent's book.
 
-* Main Textbook 1 : Theories of Programming Languages, John C Reynolds, Cambridge University Press, 1998. 
+* Main Textbook 1 : [Theories of Programming Languages, John C Reynolds](https://www.cambridge.org/core/books/theories-of-programming-languages/19530A88F3471B2A7D9891770B21DAF9), Cambridge University Press, 1998. 
 * Main Textbook 2 : Semantics of Programming Languages, Robert D. Tennent, Prentice Hall, 1991. Chapters 8 and 10 only.
 
 In addition to the two books above, the following books will have further information about the topics covered in the course. In particular, Gunter's book goes deep into the domain theory, and Pierce's book into the type theory.
