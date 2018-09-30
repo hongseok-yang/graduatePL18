@@ -7,6 +7,9 @@ CS520 is an advanced graduate-level course on the theories of programming langua
 The prerequisite of the course is CS320, the undergraduate-level programming-language course offered at KAIST, or a similar course. The course will be heavy in math, and we expect students to be comfortable with doing and reading rigorous mathematical proofs. 
 
 ## 1. Important Announcements
+#### [30 September] [Homework 1](https://github.com/hongseok-yang/graduatePL18/blob/master/Homework/Homework1/homework1-questions.pdf) is out.
+
+The due date is 2:00pm on 12 October 2018 (Friday). Submit your solutions in the CS520 homework submission box in the third floor of the E3-1 building. You can also email them to Mr Hyoungjin Lim (email: lmkmkr@kaist.ac.kr).
 
 #### [27 August] Planned cancelling and addition of lectures.
 
