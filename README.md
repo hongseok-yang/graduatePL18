@@ -7,13 +7,18 @@ CS520 is an advanced graduate-level course on the theories of programming langua
 The prerequisite of the course is CS320, the undergraduate-level programming-language course offered at KAIST, or a similar course. The course will be heavy in math, and we expect students to be comfortable with doing and reading rigorous mathematical proofs. 
 
 ## 1. Important Announcements
+
+#### [2 October] No lecture on 4 October.
+
+Hongseok will be away on 4 October. He will attend ProbProg18 held in Boston.
+
 #### [30 September] [Homework 1](https://github.com/hongseok-yang/graduatePL18/blob/master/Homework/Homework1/homework1-questions.pdf) is out.
 
 The due date is 2:00pm on 12 October 2018 (Friday). Submit your solutions in the CS520 homework submission box in the third floor of the E3-1 building. You can also email them to Mr Hyoungjin Lim (email: lmkmkr@kaist.ac.kr).
 
 #### [27 August] Planned cancelling and addition of lectures.
 
-Because of Hongseok's business, there will be no lectures on the following days.
+Because of Hongseok's business trips, there will be no lectures on the following days.
 
 1. 09/06 - NO LECTURE. SETTA'18.
 2. 10/04 - NO LECTURE. PROBPROG'18.
@@ -66,16 +71,16 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 09/18 - The Simple Imperative Language (Ch2).
 * 09/20 - Program Specification and Their Proofs (Ch3) ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture4/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture4/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture4/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture4/note4.jpg))
 * __**09/25 - NO LECTURE. Chuseok.**__
-* 09/27 - Failure, Input-Output, and Continuation (Ch5).
-* 10/02 - Transition Semantics (Ch6).
+* 09/27 - Program Specification and Their Proofs (Ch3).
+* 10/02 - Program Specification and Their Proofs (Ch3).
 * __**10/04 - NO LECTURE. PROBPROG'18.**__
 * __**10/09 - NO LECTURE. Hangle Proclamation Day.**__
-* 10/11 - An Introduction to Category Theory (Tennent Ch8).
+* 10/11 - Failure, Input-Output, and Continuation (Ch5).
 * __**10/16 - NO LECTURE. Midterm Exam.**__
-* __**10/18 - LECTURE FROM 9:30 TO 11:30.**__ Recursively-Defined Domains (Tennent Ch10). 
-* 10/23 - The Lambda Calculus (Ch10).
-* 10/25 - The Lambda Calculus (Ch10). 
-* 10/30 - An Eager Functional Language (Ch11).
+* __**10/18 - LECTURE FROM 9:30 TO 11:30.**__ Failure, Input-Output, and Continuation (Ch5) and Transition Semantics (Ch6).
+* 10/23 - An Introduction to Category Theory (Tennent Ch8).
+* 10/25 - Recursively-Defined Domains (Tennent Ch10). 
+* 10/30 - The Lambda Calculus (Ch10). 
 * 11/01 - An Eager Functional Language (Ch11).
 * 11/06 - Continuation in a Functional Language (Ch12).
 * 11/08 - Continuation in a Functional Language (Ch12).
