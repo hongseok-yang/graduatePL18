@@ -75,7 +75,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 10/02 - Program Specification and Their Proofs (Ch3).
 * __**10/04 - NO LECTURE. PROBPROG'18.**__
 * __**10/09 - NO LECTURE. Hangle Proclamation Day.**__
-* 10/11 - Failure, Input-Output, and Continuation (Ch5).
+* 10/11 - Failure, Input-Output, and Continuation (Ch5) ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture5/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture5/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture5/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture5/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture5/note5.jpg)).
 * __**10/16 - NO LECTURE. Midterm Exam.**__
 * __**10/18 - LECTURE FROM 9:30 TO 11:30.**__ Failure, Input-Output, and Continuation (Ch5) and Transition Semantics (Ch6).
 * 10/23 - An Introduction to Category Theory (Tennent Ch8).
