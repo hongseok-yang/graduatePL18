@@ -8,6 +8,10 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [14 October] [Homework 2](https://github.com/hongseok-yang/graduatePL18/blob/master/Homework/Homework2/homework2-questions.pdf) is out.
+
+The due date is 2:00pm on 31 October 2018 (Wednesday). Submit your solutions in the CS520 homework submission box in the third floor of the E3-1 building. You can also email them to Mr Hyoungjin Lim (email: lmkmkr@kaist.ac.kr).
+
 #### [2 October] No lecture on 4 October.
 
 Hongseok will be away on 4 October. He will attend ProbProg18 held in Boston.
