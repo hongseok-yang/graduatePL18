@@ -86,12 +86,12 @@ Submit your solutions by putting them in the homework submission box in the thir
 * __**10/09 - NO LECTURE. Hangle Proclamation Day.**__
 * 10/11 - Failure, Input-Output, and Continuation (Ch5) ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture5/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture5/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture5/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture5/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture5/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture5/note6.jpg), [note7](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture5/note7.jpg))
 * __**10/16 - NO LECTURE. Midterm Exam.**__
-* __**10/18 - LECTURE FROM 9:30 TO 11:30.**__ Failure, Input-Output, and Continuation (Ch5) and Transition Semantics (Ch6).
-* 10/23 - An Introduction to Category Theory (Tennent Ch8).
-* 10/25 - Recursively-Defined Domains (Tennent Ch10). 
-* 10/30 - The Lambda Calculus (Ch10). 
+* __**10/18 - LECTURE FROM 9:30 TO 11:30.**__ Failure, Input-Output, and Continuation (Ch5) 
+* 10/23 - Transition Semantics (Ch6). ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture6/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture6/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture6/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture6/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture6/note5.jpg))
+* 10/25 - An Introduction to Category Theory (Tennent Ch8).
+* 10/30 - Recursively-Defined Domains (Tennent Ch10). 
 * 11/01 - An Eager Functional Language (Ch11).
-* 11/06 - Continuation in a Functional Language (Ch12).
+* 11/06 - The Lambda Calculus (Ch10). 
 * 11/08 - Continuation in a Functional Language (Ch12).
 * 11/13 - Iswim-like Languages (Ch13).
 * 11/15 - Iswim-like Languages (Ch13).
