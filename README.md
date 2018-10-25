@@ -88,7 +88,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * __**10/16 - NO LECTURE. Midterm Exam.**__
 * __**10/18 - LECTURE FROM 9:30 TO 11:30.**__ Failure, Input-Output, and Continuation (Ch5) 
 * 10/23 - Transition Semantics (Ch6). ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture6/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture6/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture6/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture6/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture6/note5.jpeg))
-* 10/25 - An Introduction to Category Theory (Tennent Ch8).
+* 10/25 - An Introduction to Category Theory (Tennent Ch8). ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture7/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture7/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture7/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture7/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture7/note5.jpeg))
 * 10/30 - Recursively-Defined Domains (Tennent Ch10). 
 * 11/01 - An Eager Functional Language (Ch11).
 * 11/06 - The Lambda Calculus (Ch10). 
