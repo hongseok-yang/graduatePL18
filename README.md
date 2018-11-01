@@ -91,8 +91,8 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 10/25 - An Introduction to Category Theory (Tennent Ch8). ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture7/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture7/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture7/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture7/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture7/note5.jpeg))
 * 10/30 - An Introduction to Category Theory (Tennent Ch8). 
 * 11/01 - Recursively-Defined Domains (Tennent Ch10). ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note5.jpeg))
-* 11/06 - An Eager Functional Language (Ch11).
-* 11/08 - The Lambda Calculus (Ch10). 
+* 11/06 - The Lambda Calculus (Ch10). 
+* 11/08 - An Eager Functional Language (Ch11).
 * 11/13 - Continuation in a Functional Language (Ch12).
 * 11/15 - Iswim-like Languages (Ch13).
 * 11/20 - A Normal-Order Language (Ch14).
