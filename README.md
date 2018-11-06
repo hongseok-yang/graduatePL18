@@ -8,6 +8,10 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [6 November] [Homework 3](https://github.com/hongseok-yang/graduatePL18/blob/master/Homework/Homework3/homework3-questions.pdf) is out.
+
+The due date is 2:00pm on 21 November 2018 (Wednesday). Submit your solutions in the CS520 homework submission box in the third floor of the E3-1 building. You can also email them to Mr Hyoungjin Lim (email: lmkmkr@kaist.ac.kr).
+
 #### [14 October] The due date for the first critical review is approaching.
    
 The due date for the first critical review is the midnight on 26 October 2018 (Friday). Your review should be three pages or less. Make sure that you submit something even if your write-up is not as good as you want. As usual, you can submit your review in the CS520 homework submission box in the third floor of the E3-1 building, or email it to Mr Hyoungjin Lim (email: lmkmkr@kaist.ac.kr).
