@@ -96,12 +96,12 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 10/30 - An Introduction to Category Theory (Tennent Ch8). 
 * 11/01 - Recursively-Defined Domains (Tennent Ch10). ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note5.jpeg))
 * 11/06 - Recursively-Defined Domains (Tennent Ch10). ([note6](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note8.jpeg), [note9](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture8/note9.jpeg))
-* 11/08 - The Lambda Calculus (Ch10). ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note5.jpeg))
-* 11/13 - An Eager Functional Language (Ch11).
-* 11/15 - Continuation in a Functional Language (Ch12).
-* 11/20 - Iswim-like Languages (Ch13).
-* 11/22 - A Normal-Order Language (Ch14).
-* 11/27 - The Simple Type System (Ch15).
+* 11/08 - The Lambda Calculus (Ch10). ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note5.jpeg),[note6](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture9/note8.jpeg))
+* 11/13 - The Lambda Calculus (Ch10).
+* 11/15 - An Eager Functional Language (Ch11).
+* 11/20 - Continuation in a Functional Language (Ch12).
+* 11/22 - Iswim-like Languages (Ch13).
+* 11/27 - A Normal-Order Language (Ch14).
 * __**11/29 - NO LECTURE. KAIST Undergraduate Admission.**__
 * __**11/30 - LECTURE FROM 4 TO 6.**__ The Simple Type System (Ch15). 
 * __**12/04, 12/06 - NO LECTURES. NIPS'18.**__
