@@ -105,9 +105,9 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 11/15 - The Lambda Calculus (Ch10).
 * 11/20 - An Eager Functional Language (Ch11). ([note1](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture10/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture10/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture10/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture10/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture10/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture10/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL18/blob/master/Lectures/Lecture10/note7.jpeg))
 * 11/22 - Continuation in a Functional Language (Ch12).
-* 11/27 - A Normal-Order Language (Ch14).
+* 11/27 - Continuation in a Functional Language (Ch12).
 * __**11/29 - NO LECTURE. KAIST Undergraduate Admission.**__
-* __**11/30 - LECTURE FROM 4 TO 6.**__ The Simple Type System (Ch15). 
+* __**11/30 - LECTURE FROM 4 TO 6.**__ A Normal-Order Language (Ch14).
 * __**12/04, 12/06 - NO LECTURES. NIPS'18.**__
 * __**12/11, 12/13 - NO LECTURES. Final Exam.**__
 
