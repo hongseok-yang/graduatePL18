@@ -72,7 +72,7 @@ Note that the 18th of October is in the period of the mid-term exam. The univers
 
 * Place: room 111 in the N1 building
 * Time: 10:30am - 11:45am on Tuesday and Thursday from 28 August 2018 until 13 December 2018.
-* Final exam: 9:00am - 11:00am on 13 December 2018 (Thursday) at the room 202 in the E11 building.
+* Final exam: 9:00am - 11:00am on 13 December 2018 (Thursday) at the room 111 in the N1 building.
 
 #### Online Discussion
 
